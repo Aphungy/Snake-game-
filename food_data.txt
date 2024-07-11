@@ -1,0 +1,3 @@
+apple.png:5
+strawberry.png:3
+banana.png:10
